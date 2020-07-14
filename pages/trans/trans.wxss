@@ -1,0 +1,7 @@
+.blur-bg {
+  width: 750rpx;height: 1050.6rpx;overflow: hidden;
+  background: url(...);
+  background-size: cover;
+  /* filter: blur(15px); */
+  z-index: -1;   
+}

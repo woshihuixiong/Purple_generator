@@ -1,0 +1,12 @@
+<!-- <view class="my_profile1">
+  <view class="blur-bg1"></view>
+</view>
+
+<view class="outTime">
+  <text decode="{{true}}" class="item2">外出时间段：&nbsp;</text>
+  <text class="item3">2020-05-23 06:00 - 2020-07-31 23:59</text>
+</view>
+
+<view class="my_profile2">
+  <view class="blur-bg2"></view>
+</view> -->

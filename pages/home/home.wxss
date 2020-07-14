@@ -1,0 +1,88 @@
+.blur-bg {
+  width: 750rpx;height: 300rpx;overflow: hidden;
+  background: url(https://s1.ax1x.com/2020/07/14/UaM1O0.png);
+  background-size: cover;
+  /* filter: blur(15px); */
+  z-index: -1;   
+}
+
+.title{
+  padding-top:10px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:20px;
+  font-size: 18px; 
+  font-weight: 600;
+  color: #92969C
+}
+
+.showTime1{
+  padding-top:9px;
+  padding-right:15px;
+  padding-bottom:13px;
+  padding-left:20px;
+  font-size: 28px; 
+  font-weight: 500;
+  color: #000000
+}
+
+.showTime2{
+  padding-top:2px;
+  padding-right:15px;
+  padding-bottom:13px;
+  padding-left:10px;
+  font-size: 36px; 
+  font-weight: 500;
+  color: #000000
+}
+
+.master{
+  display: flex;
+}
+
+.outTime{
+  padding-top:15px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:20px;
+  display: flex;
+}
+
+.item1{
+  padding-top:2px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:20px;
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #000000
+}
+
+.item2{
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #000000
+}
+
+.item3{
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #F7C370
+}
+
+.code{
+  display:flex;
+  justify-content: center;
+}
+
+.scale{
+  padding-top:8px;
+  transform: scale(1,1);
+}
+
+.end{
+  padding-top:5px;
+  padding-bottom:50px;
+  display:flex;
+  justify-content: center;
+}

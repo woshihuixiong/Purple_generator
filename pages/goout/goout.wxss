@@ -1,0 +1,35 @@
+.blur-bg1 {
+  width: 750rpx;height: 503rpx;overflow: hidden;
+  background: url(...);
+  background-size: cover;
+  /* filter: blur(15px); */
+  z-index: -1;   
+}
+
+.blur-bg2 {
+  width: 750rpx;height: 1007rpx;overflow: hidden;
+  background: url(https://s1.ax1x.com/2020/05/26/tFn8r8.png);
+  background-size: cover;
+  /* filter: blur(15px); */
+  z-index: -1;   
+}
+
+.outTime{
+  padding-top:10px;
+  padding-right:15px;
+  padding-bottom:10px;
+  padding-left:20px;
+  display: flex;
+}
+
+.item2{
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #000000
+}
+
+.item3{
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #F7C370
+}

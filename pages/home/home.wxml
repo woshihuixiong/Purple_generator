@@ -1,0 +1,32 @@
+<view class="my_profile">
+  <view class="blur-bg"></view>
+</view>
+
+<view class="title">当前时间：</view>
+
+<view class="master">
+  <view class="showTime1">
+    <view bindtap="getTime1">{{Time1}}</view>
+  </view>
+  <view class="showTime2">
+    <view bindtap="getTime1">{{Time2}}</view>
+  </view>
+</view>
+
+<view class="item1">已于 2020-05-24 00:00:00 完成报到登记</view>
+
+<view class="outTime">
+  <text decode="{{true}}" class="item2">外出时间&nbsp;</text>
+  <text class="item3">2020-05-26 07:33</text>
+  <text decode="{{true}}" class="item2">&nbsp;至&nbsp;</text>
+  <text class="item3">2020-09-01 00:00</text>
+</view>
+
+<view class="code">
+  <image class="scale" mode="heightFix" src=" https://s1.ax1x.com/2020/05/26/tiFJc4.jpg"></image>
+</view>
+
+<view class="end">
+  <text decode="{{true}}" class="item1">校园最安全，外出有风险\n&nbsp;&nbsp;&nbsp;其他必须外出的情况</text>
+</view>
+

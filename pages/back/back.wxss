@@ -1,0 +1,51 @@
+.blur-bg {
+  width: 750rpx;height: 300rpx;overflow: hidden;
+  background: url(...);
+  background-size: cover;
+  /* filter: blur(15px); */
+  z-index: -1;   
+}
+
+.title{
+  padding-top:10px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:20px;
+  font-size: 18px; 
+  font-weight: 600;
+  color: #92969C
+}
+
+.showTime1{
+  padding-top:9px;
+  padding-right:15px;
+  padding-bottom:13px;
+  padding-left:20px;
+  font-size: 28px; 
+  font-weight: 500;
+  color: #000000
+}
+
+.showTime2{
+  padding-top:2px;
+  padding-right:15px;
+  padding-bottom:13px;
+  padding-left:10px;
+  font-size: 36px; 
+  font-weight: 500;
+  color: #000000
+}
+
+.master{
+  display: flex;
+}
+
+.item1{
+  padding-top:2px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:20px;
+  font-size: 14.4px; 
+  font-weight: 400;
+  color: #000000
+}

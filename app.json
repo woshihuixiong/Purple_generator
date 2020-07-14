@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/back/back",
+    "pages/goout/goout",
+    "pages/trans/trans"
+  ],
+  "window": {
+    "navigationBarTitleText": "返校管理系统",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EDEDED",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#C1C3C6",
+    "selectedColor": "#8BDADB",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "image/normal.png",
+        "selectedIconPath": "image/act.png",
+        "text": "交大校园码"
+      },
+      {
+        "pagePath": "pages/back/back",
+        "iconPath": "image/normal.png",
+        "selectedIconPath": "image/act.png",
+        "text": "返校申请"
+      },
+      {
+        "pagePath": "pages/goout/goout",
+        "iconPath": "image/normal.png",
+        "selectedIconPath": "image/act.png",
+        "text": "外出申请"
+      },
+      {
+        "pagePath": "pages/trans/trans",
+        "iconPath": "image/normal.png",
+        "selectedIconPath": "image/act.png",
+        "text": "转码申请"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "navigateToMiniProgramAppIdList": [
+    "wxe5f52902cf4de896"
+  ],
+  "sitemapLocation": "sitemap44.json"
+}
